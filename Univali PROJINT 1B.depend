@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1592031218 source:c:\users\alexa\documents\programação\20200612 univali projeto integrador 1b\univali projint 1b\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<cstdio>
+	<termmgr.h>
+	<ctype.h>
+
+1592027234 c:\users\alexa\documents\programação\20200612 univali projeto integrador 1b\univali projint 1b\constantes.h
+
+1592017705 source:c:\users\alexa\documents\programação\20200612 univali projeto integrador 1b\univali projint 1b\20200613 univali projeto integrador 1b.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<cstdio>
+	<termmgr.h>
+
